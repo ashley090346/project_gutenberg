@@ -1,5 +1,5 @@
 # Project Gutenberg
-共爬取本
+共爬取353本
 
 ## 安裝套件
 request(2.32.3)
