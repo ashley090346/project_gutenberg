@@ -45,8 +45,6 @@ WEB_SCRAPING_HW/
 
 以下為執行過程與爬取成果示意圖：
 
-![執行畫面示意](/Users/ashley/web_scraping_hw/result.png)
-
 🎬 [完整影片展示](https://youtu.be/A_zoroDkV-0)
 
 ---
