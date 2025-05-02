@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# Project Gutenberg
-共爬取353本
-=======
->>>>>>> update
-
 # Project Gutenberg 中文書籍爬蟲
 
 本專案用於爬取 [Project Gutenberg](https://www.gutenberg.org/) 上的中文書籍，已成功爬取 **共 353 本** 書籍，並儲存為 `.txt` 檔案格式。
